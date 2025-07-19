@@ -18,7 +18,4 @@ The profile card displays an avatar, name, job title, and a short bio, with a fo
 
 ---
 
-## 📂 File Structure
 
-/profile-card-ui/
-├── PROJECT2.HTML # Main profile card UI
